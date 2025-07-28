@@ -1,1 +1,1 @@
-# DataWarehouse-and-DataMining-Lab
+# DataWarehouse-and-DataMining-Labs
